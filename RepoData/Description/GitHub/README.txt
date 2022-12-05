@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+BASH.sh is a series of addons and joke programs revolving around the (BASH) Shell scripting language and the terminal it is used in.
